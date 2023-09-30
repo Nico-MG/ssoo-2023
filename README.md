@@ -1,5 +1,7 @@
 # ssoo-2023
 
+
+codigo para terminal linux
 ```bash
 alias run=ejecutarC
 
