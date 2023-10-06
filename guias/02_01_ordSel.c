@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int lista[] = {32,18,26,12,29};
+    int lista[] = {5,4,3,2,1};
     int aux,largo;
     //largo = 5;
     largo = sizeof lista / sizeof lista[0];
